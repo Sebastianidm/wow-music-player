@@ -1,20 +1,20 @@
 @import "bulma";
 
 .card-container {
-    height: 60vh; /* O ajusta este valor según tus necesidades */
+    height: 60vh;
     display: flex;
     align-items: center;
     justify-content: center;
-  }
-  
-  .card {
+}
+
+.card {
     width: 100%;
     height: 100%;
-    /* Otros estilos... */
-  }
-  
-  @media only screen and (max-width: 600px) {
+    
+}
+
+@media only screen and (max-width: 600px) {
     .card-container {
-      height: 60vh; /* Ajusta este valor según tus necesidades */
+        height: 60vh;
     }
-  }
+}
