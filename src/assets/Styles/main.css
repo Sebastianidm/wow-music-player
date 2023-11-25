@@ -1,4 +1,4 @@
-@import "~bulma";
+@import "bulma";
 
 .card-container {
     height: 60vh; /* O ajusta este valor según tus necesidades */
